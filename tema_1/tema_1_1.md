@@ -1,4 +1,5 @@
-# Tema 1:Perspectiva Histórica y modelo de un sistema de comunicaciones  y Tema 1.1.1 Concepto de comunicación. Fuentes de información analógica y digital, transductores, transmisión, canal de transmisión, receptor  
+# Tema 1:Perspectiva Histórica y modelo de un sistema de comunicaciones  
+# Tema 1.1.1 Concepto de comunicación. Fuentes de información analógica y digital, transductores, transmisión, canal de transmisión, receptor  
 ## Concepto de Comunicación
 **Empecemos con la siguiente pregunta:** ¿Qué es la comunicación en el contexto de sistemas?  
 La comunicación es el proceso de transmitir información de un lugar a otro usando algún medio o canal.  
